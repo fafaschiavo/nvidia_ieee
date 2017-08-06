@@ -1,0 +1,51 @@
+*************************************************
+training size - 4043
+validation size - 1011
+Number of EPOCHS - 10
+Average distance - 3.61711741673
+error_percentage - 16.270269213%
+Accuracy - 83.729730787%
+Total ranking error - 146086
+Totally random error - 338474
+Global average - 22
+Global variance - [5]
+************************************************* - 10 epochs / 5k
+
+************************************************* - model_1_0_1_new_linear
+training size - 4043
+validation size - 1011
+Number of EPOCHS - 20
+Average distance - 3.35579141311
+error_percentage - 15.0947905261%
+Accuracy - 84.9052094739%
+Total ranking error - 127236
+Totally random error - 353146
+Global average - 22
+Global variance - [5]
+************************************************* - 20 epochs / 5k
+
+************************************************* - model_1_0_2_new_linear
+training size - 4043
+validation size - 1011
+Number of EPOCHS - 50
+Average distance - 2.52192142833
+error_percentage - 11.343933814%
+Accuracy - 88.656066186%
+Total ranking error - 98000
+Totally random error - 350608
+Global average - 22
+Global variance - [5]
+************************************************* - 50 epochs / 5k
+
+************************************************* - model_1_0_3_new_linear
+training size - 4043
+validation size - 1011
+Number of EPOCHS - 100
+Average distance - 2.50920265577
+error_percentage - 11.2867231046%
+Accuracy - 88.7132768954%
+Total ranking error - 83332
+Totally random error - 341476
+Global average - 22
+Global variance - [5]
+************************************************* - 100 epochs / 5k

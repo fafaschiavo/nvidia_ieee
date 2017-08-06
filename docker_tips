@@ -1,0 +1,17 @@
+/home/aic/saved/nvidia_ieee
+
+/workspace/sample_miner
+
+festive_meninsky
+8585ee22e104
+
+
+
+flamboyant_wozniak - nome do container - docker ps -a
+docker cp /home/aic/saved/nvidia_ieee flamboyant_wozniak:/workspace/sample_miner
+
+ssh aic@10.31.229.231
+password: eeJei2oV
+
+
+nvidia-docker run -it poli/container
